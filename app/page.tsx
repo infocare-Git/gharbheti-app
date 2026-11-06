@@ -3,9 +3,9 @@
 import { useState } from "react";
 
 const listings = [
-  { title: "Sunny 2BHK", area: "Baneshwor, Kathmandu", price: "Rs 28,000", beds: 2, baths: 1, tag: "Verified", hue: 24 },
-  { title: "Cozy 1BHK Flat", area: "Jhamsikhel, Lalitpur", price: "Rs 18,500", beds: 1, baths: 1, tag: "New", hue: 160 },
-  { title: "Family 3BHK", area: "Budhanilkantha, Kathmandu", price: "Rs 42,000", beds: 3, baths: 2, tag: "Verified", hue: 210 },
+  { title: "Sunny 2BHK", area: "Baneshwor, Kathmandu", price: "Rs 28,000", beds: 2, baths: 1, tag: "Verified", hue: 200 },
+  { title: "Cozy 1BHK Flat", area: "Jhamsikhel, Lalitpur", price: "Rs 18,500", beds: 1, baths: 1, tag: "New", hue: 225 },
+  { title: "Family 3BHK", area: "Budhanilkantha, Kathmandu", price: "Rs 42,000", beds: 3, baths: 2, tag: "Verified", hue: 250 },
 ];
 
 const features = [
